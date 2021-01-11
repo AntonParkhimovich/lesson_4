@@ -107,7 +107,7 @@
     padding-bottom: 109px; 
 }
 .main-section{
-    background: linear-gradient(rgba(0, 0, 0, 0.45),rgba(0, 0, 0, 0.45)), url(/images/background/background_main.jpg) no-repeat, center;
+    background: linear-gradient(rgba(0, 0, 0, 0.45),rgba(0, 0, 0, 0.45)), url(.//images/background/background_main.jpg) no-repeat, center;
     padding: 109px 0 0 110px;
     
 }
@@ -230,7 +230,7 @@
    
     width:684px; 
     height: 42px;
-    background: url(/images/social/social__icons.png) no-repeat;
+    background: url(.//images/social/social__icons.png) no-repeat;
 }
 .social-main__list-item {
     display: inline-block;
@@ -300,7 +300,7 @@ background-color: #EC7979;
 }
 .tabs-main__img{
     display: inline-block;
-    background: url(/images/background/image-tabs.png)no-repeat center;
+    background: url(.//images/background/image-tabs.png)no-repeat center;
     width: 320px;
     height: 253px;
     vertical-align: top;
@@ -349,15 +349,15 @@ background-color: #EC7979;
     margin: 0px auto 30px
 }
 .circle--lamp {
-    background: url(/images/syle/lamp.png) no-repeat center;
+    background: url(.//images/syle/lamp.png) no-repeat center;
 }
 
 .circle--keyboard {
-    background: url(/images/syle/keyboard.png) no-repeat center;
+    background: url(./images/syle/keyboard.png) no-repeat center;
 }
 
 .circle--lightning {
-    background: url(/images/syle/lightning.png) no-repeat center;
+    background: url(.//images/syle/lightning.png) no-repeat center;
 }
 .main-price{
     padding-top: 80px;
@@ -559,7 +559,7 @@ padding: 15px 0 9px 0;
 .footer__list{
     width: 317px;
     height: 23px;
-    background: url(https://antonparkhimovich.github.io/lesson_3/images/social.png) no-repeat, center;
+    background: url(.//images/social.png) no-repeat, center;
     margin: 0 auto;  
     text-decoration: none;
     margin-bottom: 18px;
