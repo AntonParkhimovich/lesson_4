@@ -472,7 +472,7 @@ padding: 15px 0 9px 0;
 .section-download{
     width: 1400px;
     padding:38px 0 38px 0;
-    background: linear-gradient(rgba(0, 0, 0, 0.65),rgba(0, 0, 0, 0.65)), url(/images/background/backgroundimage.jpg) no-repeat, center;
+    background: linear-gradient(rgba(0, 0, 0, 0.65),rgba(0, 0, 0, 0.65)), url(../images/background/backgroundimage.jpg) no-repeat, center;
 }
 .section-download__title{
     margin-bottom: 34px;
